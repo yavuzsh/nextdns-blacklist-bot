@@ -1,5 +1,6 @@
 # nextdns-blacklist-bot
-Add blacklist domains Selenium Automation Bot for NextDNS
+Adds blacklist domains Selenium Automation Bot for NextDNS
+
 <h3> Requierements </h3>
 
  - Firefox WebDriver (geckodriver)
