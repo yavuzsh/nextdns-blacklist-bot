@@ -16,7 +16,7 @@ Adds blacklist domains Selenium Automation Bot for NextDNS
 
  - Edit denylist.txt file, type what you want to add to the NextDNS blacklist.
 
- - Start Python File
+ - Execute Python File
 <code> py main.py </code>
 
 <h3> Limitations / Issues </h3>
